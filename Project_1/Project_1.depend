@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1749172583 source:c:\users\mexic\documents\cursos\ejercicio_aplicativo_funciones\project_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
