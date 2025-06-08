@@ -17,6 +17,8 @@ void ImprimirDatos(float *datos);
 
 int main()
 {
+
+    printf("Hola mundo");
     //srand(time(NULL));
     int i;
     float promedio;
